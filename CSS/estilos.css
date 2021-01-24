@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: rgb(10, 10, 17);
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -9,6 +9,7 @@ body
 }
 #container
 {
+    color: rgb(0, 0, 250);
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -19,4 +20,9 @@ body
 #container h1
 {
     font-size: 20px;
+    color: rgb(200, 0, 250);
+}
+#post p
+{
+        color:  rgb(10, 10, 17);
 }
